@@ -39,5 +39,5 @@ if __name__ == '__main__':
     frog = Amphibian()
     
     print("LandAnimal:", land.make_sound())
-    print("WaterAnimal:", water.make_sound())c
+    print("WaterAnimal:", water.make_sound())
     print("Amphibian:", frog.make_sound())
